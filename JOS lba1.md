@@ -1,5 +1,7 @@
-#MIT 6.828 JOS
-#Lab1 Bootstrapping
+MIT 6.828 JOS
+
+
+Lab1 Bootstrapping
 
 #The PC's Physical Address Space
 
